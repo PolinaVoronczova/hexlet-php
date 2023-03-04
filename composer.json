@@ -1,0 +1,11 @@
+{
+    "name": "tirabyrius/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "VoronczovaPolina",
+            "email": "tirabyrius@gmail.com"
+        }
+    ],
+    "require": {}
+}
